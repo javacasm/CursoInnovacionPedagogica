@@ -16,7 +16,8 @@ Conocer diferentes opciones, placas y tipos de robots para trabajar la robótica
 - Conocer las aportaciones de la impresión 3D a la robótica.
 - Diseñar objetos en tres dimensiones usando distinta aplicaciones y programas.
 - Usar las TIC para documentar procesos (tabletas digitales, ordenadores, apps, etc).
-- Aprender haciendo: Planificar, investigar, escribir, hablar, probar, diseñar, etc. - Metodología a utilizar en proyectos de robótica.
+- Aprender haciendo: Planificar, investigar, escribir, hablar, probar, diseñar, etc.
+- Metodología a utilizar en proyectos de robótica.
 - Crear una maqueta de robot con una finalidad o uso específico, como solución a un sencillo problema diario.
 
 
@@ -33,4 +34,11 @@ Conocer diferentes opciones, placas y tipos de robots para trabajar la robótica
 * Diseño de objetos 3D aplicados a la robótica.
 * Uso de diferentes apps para documentar proyectos (texto, audio, vídeo).
 * Metodologías activas de aprendizaje.
-* Proyecto final. Creación de robot o maqueta. 
+* Proyecto final. Creación de robot o maqueta.
+
+## Motivación
+
+* Ahorro económico: comparación entre modelo Lego y modelos abiertos. Construcción de los propios elementos de los talleres/laboratorios
+* Herramientas educativas modernas
+* Trabajo por proyectos
+* Uso de redes: marketing, conexión con los padres

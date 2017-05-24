@@ -1,3 +1,11 @@
+# Curso Superior de Innovación Pedagógica y Metodologías para el Aprendizaje.
+
+## Módulo de Programación y Robótica.
+
+### José Antonio Vacas @javacasm
+
+![CCbySA](imagenes/CCbySQ_88x31.png)
+
 # Bicho Bot
 
 https://www.youtube.com/watch?v=8B91psOGwss

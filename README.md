@@ -62,3 +62,6 @@ Conocer diferentes opciones, placas y tipos de robots para trabajar la robótica
 * [Robots](./Robots.md)
   * [Equipos para construir robots](./Equipos.md)
 * ¿Qué es el [OpenSource](./OpenSource.md)?
+
+* [3D](./3d.md)
+* [Impresión 3D](./Impresion3D.md)

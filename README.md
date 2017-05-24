@@ -1,9 +1,14 @@
 # Curso Superior de Innovación Pedagógica y Metodologías para el Aprendizaje.
+
 ## Módulo de Programación y Robótica.
 
+### José Antonio Vacas @javacasm
 
+![CCbySA](imagenes/CCbySQ_88x31.png)
 
-### OBJETIVOS:
+* * *
+
+### Objetivos
 
 Tratar aspectos básicos sobre robótica educativa. Introducción de la robótica en el aula. Cultura o movimiento Maker.
 Conocer diferentes opciones, placas y tipos de robots para trabajar la robótica en el aula.
@@ -22,13 +27,13 @@ Conocer diferentes opciones, placas y tipos de robots para trabajar la robótica
 
 
 
-### CONTENIDOS:
+### Contenidos
 
 * Robótica educativa. Concepto.
 * Tipos de robots: Printbot, sigue líneas, evita obstáculos, Meccanoid, Lego, etc.
 * Placas controladoras: Arduino, Makey Makey, Raspberry
 * Aplicaciones para programación visual: Bitbloq, Scratch, Lego.
-* Componentes electrónicos: Placa arduino, sensores, motores, controlador de motores, etc.
+* Componentes electrónicos: Placa Arduino, sensores, motores, controlador de motores, etc.
 * Ejemplos de proyectos multidisciplinares en los que interviene la robótica.
 * Impresión 3D. Partes y funcionamiento de la impresión 3D.
 * Diseño de objetos 3D aplicados a la robótica.
@@ -42,3 +47,18 @@ Conocer diferentes opciones, placas y tipos de robots para trabajar la robótica
 * Herramientas educativas modernas
 * Trabajo por proyectos
 * Uso de redes: marketing, conexión con los padres
+
+## Índice
+
+* [La moda de la robótica](./moda_robotica.md)
+* [¿Por qué hacer?](./makers.md)
+
+* [Proyectos](./Proyectos.md)
+
+  * Ejemplos: [Granada Mágica](./granadaMagica.md)
+
+* [Programación](./programacion.md)
+* [Herramientas para desarrollar los proyectos](./herramientas.md)
+* [Robots](./Robots.md)
+  * [Equipos para construir robots](./Equipos.md)
+* ¿Qué es el [OpenSource](./OpenSource.md)?

@@ -58,6 +58,7 @@ Programable con bloques
 
 ![bq evolution](https://d243u7pon29hni.cloudfront.net/images/products/robot-educativo-bq-kit-printbot-evolution_l.png)
 
+![kit bq](https://devnull.files.wordpress.com/2014/01/2014-01-02-22-38-17.jpg)
 
 # Problemas y sus soluciones
 

@@ -80,4 +80,7 @@ Conocer diferentes opciones, placas y tipos de robots para trabajar la robótica
 * [Impresión 3D](./Impresion3D.md)
 * [Herramientas 3D](./Herramientas3D.md)
 
+### Apéndices
+
 * ¿Qué es el [OpenSource](./OpenSource.md)?
+* [¿Dónde comprar?](./Comprar.md)

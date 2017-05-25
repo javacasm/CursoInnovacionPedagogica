@@ -4,7 +4,7 @@
 
 ### José Antonio Vacas @javacasm
 
-![CCbySA](imagenes/CCbySQ_88x31.png)
+![CCbySA](./images/CCbySQ_88x31.png)
 
 # Bicho Bot
 

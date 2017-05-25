@@ -30,13 +30,15 @@ Programable con bloques
 
 ![bananaPiano](./images/bananaPiano.jpg)
 
-## Bq
+## [Bq robot](https://www.bq.com/es/printbot-evolution) [100€]
+
+![bq evolution](https://d243u7pon29hni.cloudfront.net/images/products/robot-educativo-bq-kit-printbot-evolution_l.png)
 
 ## Lego
 Lego NXT
 ![nxt](https://images-na.ssl-images-amazon.com/images/I/41wQw7YDvOL._SY450_.jpg)
 
-[Legp EV3](https://www.amazon.es/LEGO-Mindstorms-juguete-electr%C3%B3nico-31313/dp/B00BMKLVJ6/ref=sr_1_1?ie=UTF8&qid=1495724987&sr=8-1&keywords=lego+ev3) (320€)
+[Lego EV3](https://www.amazon.es/LEGO-Mindstorms-juguete-electr%C3%B3nico-31313/dp/B00BMKLVJ6/ref=sr_1_1?ie=UTF8&qid=1495724987&sr=8-1&keywords=lego+ev3) (320€)
 
 ![ev3](https://lc-www-live-s.legocdn.com/r/www/r/catalogs/-/media/franchises/mindstorms%202014/products/in%20the%20box/inthebox_bricks_landscape.jpg?l.r2=157308338)
 

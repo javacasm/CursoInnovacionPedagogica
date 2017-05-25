@@ -4,7 +4,7 @@
 
 ### José Antonio Vacas @javacasm
 
-![CCbySA](./images/Licencia_CC.png)
+![CCbySA](./images/CCbySQ_88x31.png)
 
 ##  Trabajando todos
 ![trabajando todos](https://www.flickr.com/photos/fantasticoguevejar/15872816374/in/album-72157650743695171/)

@@ -114,8 +114,23 @@ Ejemplo para infantil [bichobot](./bichobot.md)
 
 Ejemplo para primaria [escornabot](./escornabot.md)
 
-“Lo que oigo, lo olvido; lo que veo, lo recuerdo; lo que hago, lo aprendo”
+## ¿Y si hacemos material de laboratorio?
+
+[Centrifugadora sencilla](http://makezine.com/projects/3d-printed-centrifuge/)
+
+![Centrifugadora](https://i2.wp.com/makezine.com/wp-content/uploads/2017/03/10-LidOpen.jpg?resize=620%2C930)
 
 
+[Herramientas de Laboratorio imprimibles](https://www.thingiverse.com/javacasm/collections/laboratorio)
+
+![pipeta](https://thingiverse-production-new.s3.amazonaws.com/renders/d5/d1/47/5a/44/c087340014c3f3ad74d61a1006712669_preview_featured.JPG)
+
+
+
+# “Lo que oigo, lo olvido; lo que veo, lo recuerdo; lo que hago, lo aprendo”
+
+
+
+## Ejemplos
 
 [16 proyectos](http://www.gettingsmart.com/2015/06/your-students-can-be-makers-16-projects-invented-by-teachers/?utm_content=buffer5f7a9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)

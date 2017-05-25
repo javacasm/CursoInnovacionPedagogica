@@ -4,7 +4,7 @@
 
 ### José Antonio Vacas @javacasm
 
-![CCbySA](./images/Licencia_CC.png)
+![CCbySA](./images/CCbySQ_88x31.png)
 
 
 # Open Source
@@ -25,13 +25,13 @@
 #### Porque puedo hacer las cosas por mi mismo, cuando las entiendo, las puedo modificar y adaptarlas
 
 ### Ejemplo: [Arduino](http://www.arduino.cc)
-![arduino](./imagenes/Arduino_Uno_-_R3.jpg)
+![arduino](./images/Arduino_Uno_-_R3.jpg)
 
 
 ### Ejemplo: impresoras 3D
 Imágenes, diseños, electrónica, programas
 
-![prusa](./imagenes/prusa.jpg)
+![prusa](./images/prusa.jpg)
 
 [¿Por qué usar Open Source en educación?](http://www.slideshare.net/josepujolperez/programacion-y-robtica-secundaria-open-source?next_slideshow=1)
 

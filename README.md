@@ -72,7 +72,7 @@ Conocer diferentes opciones, placas y tipos de robots para trabajar la robótica
 * [Herramientas para desarrollar los proyectos](./herramientas.md)
 * [Robots](./Robots.md)
   * [Equipos para construir robots](./Equipos.md)
-
+* [Ejemplo con bitbloq](./EjemploBitbloq.md)
 
 ### 3D
 

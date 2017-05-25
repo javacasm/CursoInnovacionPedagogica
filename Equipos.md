@@ -60,6 +60,11 @@ Programable con bloques
 
 ![kit bq](https://devnull.files.wordpress.com/2014/01/2014-01-02-22-38-17.jpg)
 
+## [Raspberry](./Raspberry.md)
+
+![Raspberry Pi versión 3](https://www.raspberrypi.org/app/uploads/2016/02/Raspberry-Pi-3-top-down-web.jpg)
+
+
 # Problemas y sus soluciones
 
 ## El coste

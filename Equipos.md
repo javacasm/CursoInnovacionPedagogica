@@ -33,11 +33,24 @@ Programable con bloques
 ## Bq
 
 ## Lego
+Lego NXT
+![nxt](https://images-na.ssl-images-amazon.com/images/I/41wQw7YDvOL._SY450_.jpg)
 
-## BeeBot
+[Legp EV3](https://www.amazon.es/LEGO-Mindstorms-juguete-electr%C3%B3nico-31313/dp/B00BMKLVJ6/ref=sr_1_1?ie=UTF8&qid=1495724987&sr=8-1&keywords=lego+ev3) (320€)
 
-## Meccanoid
+![ev3](https://lc-www-live-s.legocdn.com/r/www/r/catalogs/-/media/franchises/mindstorms%202014/products/in%20the%20box/inthebox_bricks_landscape.jpg?l.r2=157308338)
 
+![ev3 componentes](https://s3.eu-central-1.amazonaws.com/robotica-es/uploads/items/ITEM_7628_FOTOPROD.png)
+
+## [BeeBot](https://ro-botica.com/es/tienda/Bee-Bot/)
+
+![tapetes](https://s3.eu-central-1.amazonaws.com/robotica-es/uploads/items/ITEM_10210_FOTOPROD.jpg)
+
+![beebot](http://3.bp.blogspot.com/-C5RIFcXiwTk/VS7dCSrbcqI/AAAAAAAAFWM/T-QXEgwvjMg/s1600/BOTONES%2BBEE%2BBOT.jpg)
+
+## [Meccanoid](https://www.juguetronica.com/meccanoid-g15ks)
+
+![Meccanoid](https://www.juguetronica.com/media/catalog/product/m/e/meccanoid_1_-917_1_1.jpg)
 
 # Problemas y sus soluciones
 

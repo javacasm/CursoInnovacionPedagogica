@@ -6,7 +6,6 @@
 
 ![CCbySA](./images/CCbySQ_88x31.png)
 
-
 # Recursos: ¿dónde obtener ejemplos?
 
 [Procomún educalab](http://procomun.educalab.es/es/ode/view/1453974406581)
@@ -28,6 +27,10 @@
 [MakeZine](http://makezine.com/)
 
 [Foros Spainlabs](http://spainlabs.com/foros/)
+
+# Componentes
+
+![bq zum](http://diwo.bq.com/wp-content/uploads/2015/03/EVO-guia-de-montje-10_ff.png)
 
 # Parpadeando
 

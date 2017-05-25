@@ -51,6 +51,9 @@
 
 ![ZowiMod](https://github.com/bqlabs/zowi/raw/master/mods/Forge/images/forge.jpg)
 
+## Robot sencillos
+* Para infantil: [Bichobot](./bichobot.md)
+* Para primaria: [Escornabot](./escornabot.md)
 
 # Fases para construir  un robot
 

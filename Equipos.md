@@ -30,9 +30,20 @@ Programable con bloques
 
 ![bananaPiano](./images/bananaPiano.jpg)
 
-## [Bq robot](https://www.bq.com/es/printbot-evolution) [100€]
 
-![bq evolution](https://d243u7pon29hni.cloudfront.net/images/products/robot-educativo-bq-kit-printbot-evolution_l.png)
+## [BeeBot](https://ro-botica.com/es/tienda/Bee-Bot/)
+
+![tapetes](https://s3.eu-central-1.amazonaws.com/robotica-es/uploads/items/ITEM_10210_FOTOPROD.jpg)
+
+![beebot](http://3.bp.blogspot.com/-C5RIFcXiwTk/VS7dCSrbcqI/AAAAAAAAFWM/T-QXEgwvjMg/s1600/BOTONES%2BBEE%2BBOT.jpg)
+
+Alternativa open: [Escornabot](./escornabot.md)
+
+![Escornabot](https://bricolabs.cc/wiki/_media/old/archivo/escornabot-brivoi.jpg)
+
+## [Meccanoid](https://www.juguetronica.com/meccanoid-g15ks)
+
+![Meccanoid](https://www.juguetronica.com/media/catalog/product/m/e/meccanoid_1_-917_1_1.jpg)
 
 ## Lego
 Lego NXT
@@ -44,15 +55,10 @@ Lego NXT
 
 ![ev3 componentes](https://s3.eu-central-1.amazonaws.com/robotica-es/uploads/items/ITEM_7628_FOTOPROD.png)
 
-## [BeeBot](https://ro-botica.com/es/tienda/Bee-Bot/)
+## [Bq robot](https://www.bq.com/es/printbot-evolution) [100€]
 
-![tapetes](https://s3.eu-central-1.amazonaws.com/robotica-es/uploads/items/ITEM_10210_FOTOPROD.jpg)
+![bq evolution](https://d243u7pon29hni.cloudfront.net/images/products/robot-educativo-bq-kit-printbot-evolution_l.png)
 
-![beebot](http://3.bp.blogspot.com/-C5RIFcXiwTk/VS7dCSrbcqI/AAAAAAAAFWM/T-QXEgwvjMg/s1600/BOTONES%2BBEE%2BBOT.jpg)
-
-## [Meccanoid](https://www.juguetronica.com/meccanoid-g15ks)
-
-![Meccanoid](https://www.juguetronica.com/media/catalog/product/m/e/meccanoid_1_-917_1_1.jpg)
 
 # Problemas y sus soluciones
 

@@ -4,7 +4,7 @@
 
 ### José Antonio Vacas @javacasm
 
-![CCbySA](./images/Licencia_CC.png)
+![CCbySA](./images/CCbySQ_88x31.png)
 
 # Herramientas
 

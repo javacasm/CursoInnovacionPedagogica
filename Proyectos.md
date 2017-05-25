@@ -4,7 +4,7 @@
 
 ### José Antonio Vacas @javacasm
 
-![CCbySA](./images/Licencia_CC.png)
+![CCbySA](./images/CCbySQ_88x31.png)
 
 # Proyectos
 
@@ -61,7 +61,7 @@ Utilizan un robot similar a [este](https://github.com/javacasm/evoPrintBot)
 * Medida de Velocidades
 * Trabajando con [Spinners](https://github.com/javacasm/spinners)
 
-![spinners](https://github.com/javacasm/Spinners/raw/master/images/Montaje_testBench.jpg)
+  ![spinners](https://github.com/javacasm/Spinners/raw/master/images/Montaje_testBench.jpg)
 
 ## Matemáticas
 

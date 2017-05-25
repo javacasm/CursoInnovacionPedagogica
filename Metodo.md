@@ -20,12 +20,12 @@ En abstracto:
 * Elaboración de documentación
    * Documentación técnica
    * Explicación más sencilla para la familia y los amigos
-   * Creación de materiales audiovisuales
-   * Presupuestos
+   * Creación de materiales audiovisuales (vídeos, podcast)
+   * Preparación de presupuestos
    * Correspondencia comercial
-* Uso de herramientas para gestionar y compartir información
-* Exposición del trabajo realizado
-* Publicación redes sociales
+* Uso de herramientas para gestionar y compartir información (tablets)
+* Exposición del trabajo realizado, grabación de contenidos
+* Publicación en redes sociales
 * Relación con el mundo: proveedores, desarrolladores, otros grupos que ya lo han hecho
 * Valoración de la ventaja de compartir información y experiencias
 * Trabajo con problemas y proyectos complejos
@@ -46,4 +46,4 @@ En concreto:
 * Ciclo de iteración y mejora
 * Habrá problemas y tendrán que buscar soluciones
 
-## El alumno recupera una posición activa
+## El alumno recupera una posición activa en el proceso de aprendizaje

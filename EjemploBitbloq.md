@@ -1,18 +1,10 @@
-# Arduino Básico
+# Curso Superior de Innovación Pedagógica y Metodologías para el Aprendizaje.
 
-## Curso para el CEP de Cordoba
+## Módulo de Programación y Robótica.
 
-19, 20, 25 y 26 de Abril y 9 de Junio 2016
+### José Antonio Vacas @javacasm
 
-## Nivel básico
-
-José Antonio Vacas @javacasm
-
-![cc](./images/CCbySQ_88x31.png)
-
-[https://github.com/javacasm/ArduinoBasicoCEPCordoba](https://github.com/javacasm/ArduinoBasicoCEPCordoba)
-
-([Enlace al moodle del curso](http://educacionadistancia.juntadeandalucia.es/profesorado/course/view.php?id=2418))
+![CCbySA](./images/CCbySQ_88x31.png)
 
 
 # Recursos: ¿dónde obtener ejemplos?
@@ -90,7 +82,7 @@ Vamos a simular un termostato con un potenciómetro.
 
 ![SoftwareTermostado(Simulado).png](./images/SoftwareTermostado_Simulado.png)
 
-Coneptos:
+Conceptos:
 * Umbral.
 * Histéresis: importancia de dejar unos márgenes de tolerancia.
 * Funciones condicionales simples y complejas.

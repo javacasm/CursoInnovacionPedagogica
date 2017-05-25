@@ -14,7 +14,7 @@
 
 ## Blocky
 
-## [Scratch](https://github.com/javacasm/ProgramarParaEducar/blob/master/Scratch.md)
+## [Scratch](./Scratch.md)
 
 ## [AppInventor](https://github.com/javacasm/ProgramarParaEducar/blob/master/AppInventor.md)
 

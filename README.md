@@ -50,20 +50,34 @@ Conocer diferentes opciones, placas y tipos de robots para trabajar la robótica
 
 ## Índice
 
+### Introducción
+
 * [La moda de la robótica](./moda_robotica.md)
+
 * [¿Por qué hacer?](./makers.md)
+
+### Proyectos
 
 * [Proyectos](./Proyectos.md)
 
   * Ejemplos: [Granada Mágica](./granadaMagica.md)
+
 * [Método](./Metodo.md)
+
 * [Interacción con Redes Sociales](./RedesSociales.md)
+
+### Programación y robótica
 
 * [Programación](./programacion.md)
 * [Herramientas para desarrollar los proyectos](./herramientas.md)
 * [Robots](./Robots.md)
   * [Equipos para construir robots](./Equipos.md)
-* ¿Qué es el [OpenSource](./OpenSource.md)?
+
+
+### 3D
 
 * [3D](./3d.md)
 * [Impresión 3D](./Impresion3D.md)
+* [Herramientas 3D](./Herramientas3D.md)
+
+* ¿Qué es el [OpenSource](./OpenSource.md)?

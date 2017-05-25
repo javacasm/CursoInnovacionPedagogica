@@ -13,7 +13,7 @@
 
 ## Code.org
 
-![code](./imagenes/code.png)
+![code](./images/code.png)
 
 
 #### ¿no son todos .com?
@@ -22,20 +22,26 @@
 
 ### Vamos a hacer pequeños programas para ayudar a nuestros amigos
 
-![personajes](./imagenes/personajes_code.png)
+![personajes](./images/personajes_code.png)
 
 ### ¿Frozen? ¿Angry birds? ¿Flappy bird?
 
-![angry birds](./imagenes/AngryBird_code.png)
+![angry birds](./images/AngryBird_code.png)
 
 [nivel 1](https://studio.code.org/hoc/1/	)
 
 
-## Blocky
+## [Blocky](https://developers.google.com/blockly/)
+
+![blocky](https://developers.google.com/blockly/images/BlocklyDemoImage.png)
 
 ## [Scratch](./Scratch.md)
 
+![interface](./images/scratch-interfaz.png)
+
 ## [AppInventor](./AppInventor.md)
+
+![codigo](http://appinventor.mit.edu/explore/sites/all/files/ai2tutorials/paintPot2/PaintPotAllBlocks.png)
 
 
 ## Ejemplos

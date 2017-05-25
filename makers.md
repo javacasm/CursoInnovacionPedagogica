@@ -4,11 +4,9 @@
 
 ### José Antonio Vacas @javacasm
 
-![CCbySA](./images/Licencia_CC.png)
+![CCbySA](./images/CCbySQ_88x31.png)
 
 # Makers
-
-
 
 ## ¿Por qué "hacer" cosas en el aula?
 
@@ -81,7 +79,6 @@
 [Juguetes](https://github.com/javacasm/Tecnologia-Educativa/blob/master/juguetes.md)
 
 
-
 Ejemplos de arquitectura
 
 [Templetto](http://www.thingiverse.com/thing:968928)
@@ -96,16 +93,11 @@ Ejemplos de arquitectura
 
 ![hogwarts](http://thingiverse-production-new.s3.amazonaws.com/renders/07/b3/fe/9b/f6/bebea283710a363a7080d849d7d9f468_preview_featured.JPG)
 
-
-
 Ejemplo práctico:
 
 [Figuras geométrica](http://www.thingiverse.com/javacasm/collections/figuras-geometricas)
 
-
-
-
-Robótica
+## Robótica
 
 Las cosas que se mueven atraen más
 
@@ -113,18 +105,14 @@ Todo lo relacionado con la robótica engancha,  eso es indudable
 
 Con la excusa de la robótica como gancho podemos enseñar y aprender todo tipo de contenidos.
 
-
-
-Podemos usarla para aprender a [...](./desarrollo.md)
+Podemos usarla para aprender a [...](./Metodo.md)
 
 ![robot](https://pbs.twimg.com/media/C7oWc2lW4AA_-p6.jpg)
 
 
+Ejemplo para infantil [bichobot](./bichobot.md)
 
-
-Ejemplo [bichobot](./bichobot.md)
-
-Ejemplo [escornabot](./escornabot.md)
+Ejemplo para primaria [escornabot](./escornabot.md)
 
 “Lo que oigo, lo olvido; lo que veo, lo recuerdo; lo que hago, lo aprendo”
 

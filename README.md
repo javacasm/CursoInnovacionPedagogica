@@ -6,6 +6,8 @@
 
 ![CCbySA](./images/CCbySQ_88x31.png)
 
+https://github.com/javacasm/CursoInnovacionPedagogica
+
 * * *
 
 ### Objetivos

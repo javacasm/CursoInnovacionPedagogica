@@ -37,7 +37,6 @@ Conocer diferentes opciones, placas y tipos de robots para trabajar la robótica
 * Ejemplos de proyectos multidisciplinares en los que interviene la robótica.
 * Impresión 3D. Partes y funcionamiento de la impresión 3D.
 * Diseño de objetos 3D aplicados a la robótica.
-* Uso de diferentes Apps para documentar proyectos (texto, audio, vídeo).
 * Metodologías activas de aprendizaje.
 * Proyecto final. Creación de robot o maqueta.
 

@@ -26,6 +26,10 @@ Alternativa open: [Escornabot](./escornabot.md)
 
 ![Meccanoid](https://www.juguetronica.com/media/catalog/product/m/e/meccanoid_1_-917_1_1.jpg)
 
+[Alternativa: Poppy](https://www.myminifactory.com/object/poppy-humanoid-36126)
+
+![poppy](https://cdn.myminifactory.com/assets/object-assets/59244189b4809/images/1000X1000-a500e474d734a312ba7388ec2e4150d3-preview-featured.jpg)
+
 ## Lego
 Lego NXT
 ![nxt](https://images-na.ssl-images-amazon.com/images/I/41wQw7YDvOL._SY450_.jpg)

@@ -129,6 +129,9 @@ Ejemplo para primaria [escornabot](./escornabot.md)
 
 # “Lo que oigo, lo olvido; lo que veo, lo recuerdo; lo que hago, lo aprendo”
 
+## Debate: Las chicas a partir de los 12 años abandonan las enseñanzas STEM
+* Las chicas y las STEM
+* ¿Fomentamos las materias STEM?
 
 
 ## Ejemplos

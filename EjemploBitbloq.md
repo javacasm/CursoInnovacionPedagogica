@@ -6,33 +6,36 @@
 
 ![CCbySA](./images/CCbySQ_88x31.png)
 
-# Recursos: ¿dónde obtener ejemplos?
+## Recursos: ¿dónde obtener ejemplos?
 
-[Procomún educalab](http://procomun.educalab.es/es/ode/view/1453974406581)
+* [Procomún educalab](http://procomun.educalab.es/es/ode/view/1453974406581)
 
-[Proyectos bitbloq](http://bitbloq.bq.com/#/explore)
+* [Proyectos bitbloq](http://bitbloq.bq.com/#/explore)
 
-[Curso bitbloq](http://diwo.bq.com/course/aprende-robotica-y-programacion-con-bitbloq-2/)
+* [Curso bitbloq](http://diwo.bq.com/course/aprende-robotica-y-programacion-con-bitbloq-2/)
 
-[Otros Proyectos](https://github.com/javacasm/ProyectosEscolaresRobots/blob/master/proyectos/proyectos.md)
+* [Otros Proyectos](https://github.com/javacasm/ProyectosEscolaresRobots/blob/master/proyectos/proyectos.md)
 
-# web de proyectos
+### Webs de proyectos
+* [Hackster](https://www.hackster.io/)
 
-[Hackster](https://www.hackster.io/)
+* [HackADay](http://hackaday.com/)
 
-[HackADay](http://hackaday.com/)
+* [Instructables](http://www.instructables.com/)
 
-[Instructables](http://www.instructables.com/)
+* [MakeZine](http://makezine.com/)
 
-[MakeZine](http://makezine.com/)
+* [Foros Spainlabs](http://spainlabs.com/foros/)
 
-[Foros Spainlabs](http://spainlabs.com/foros/)
+## Ejemplos de [Bitbloq](http://bitbloq.bq.com)
 
-# Componentes
+Este es el típico esquema de los componentes usados en Bitbloq
 
 ![bq zum](http://diwo.bq.com/wp-content/uploads/2015/03/EVO-guia-de-montje-10_ff.png)
 
-# Parpadeando
+Veamos algunos ejemplos que podemos hacer con estos componentes
+
+### Parpadeando
 
 1. Empezamos con 1 led Parpadeando
 
@@ -60,7 +63,7 @@ v=lectura*5.0/1023
 (hay que recordar la importancia de hacer el cálculo con número decimales)
 1. Enviamos datos al PC
 
-# Voltímetro
+### Voltímetro
 
 Vamos a añadir al ejemplo anterior la medida de voltaje.
 
@@ -71,7 +74,7 @@ v=lectura*5.0/1023
 (hay que recordar la importancia de hacer el cálculo con número decimales)
 1. Enviamos datos al PC
 
-# Termostato
+### Termostato
 
 Vamos a simular un termostato con un potenciómetro.
 
@@ -81,7 +84,7 @@ Vamos a simular un termostato con un potenciómetro.
 
 ![HardwareTermostado_Simulado.png](./images/HardwareTermostado_Simulado.png)
 
-## Programa
+#### Programa
 
 ![SoftwareTermostado(Simulado).png](./images/SoftwareTermostado_Simulado.png)
 
@@ -90,38 +93,38 @@ Conceptos:
 * Histéresis: importancia de dejar unos márgenes de tolerancia.
 * Funciones condicionales simples y complejas.
 
-# Luz de escalera con duración regulable
+### Luz de escalera con duración regulable
 
-## Hardware
+#### Hardware
 
 Un pulsador activa la luz de la escalera, cuya duración depende del valor de un potenciómetro
 
 ![HardwareLuzEscalera](./images/HardwareLuzEscalera.png)
 
-## [Enlace al Proyecto](http://bitbloq.bq.com/#/bloqsproject/546e2764e4b0bde006d0857e:f38326dd-180b-4f46-8963-3cbd35d909a1)
+#### [Enlace al Proyecto](http://bitbloq.bq.com/#/bloqsproject/546e2764e4b0bde006d0857e:f38326dd-180b-4f46-8963-3cbd35d909a1)
 
-## Programa
+#### Programa
 
 ![SoftwareLuzEscalera](./images/SoftwareLuzEscalera.png)
 
-# Robot No te caigas
+### Robot No te caigas
 
 Robot muy sencillo que va vigilando por si encuentra el borde de la mesa, deteniéndose si lo encuentra.
 
-## Hardware
+#### Hardware
 
 ![HardwareNoTeCaigas](./images/HardwareNoTeCaigas.png)
 
-## Programa
+#### Programa
 
 ![SoftwareNoTeCaigas](./images/SotwareNoTeCaigas.png)
 
-## [Enlace al Proyecto](http://bitbloq.bq.com/#/bloqsproject/546e2764e4b0bde006d0857e:4c95e7b5-0717-4881-8593-8963f37550aa)
+#### [Enlace al Proyecto](http://bitbloq.bq.com/#/bloqsproject/546e2764e4b0bde006d0857e:4c95e7b5-0717-4881-8593-8963f37550aa)
 
 
-# Semáforo
+### Semáforo
 
-## Pasos
+#### Pasos
 
 1. Empezamos por un semáforo con 2 luces (usaremos verde y azul)
 
@@ -130,21 +133,18 @@ Robot muy sencillo que va vigilando por si encuentra el borde de la mesa, deteni
   * Control de servo
 [Proyecto](http://goo.gl/jkFhcs)
 
-### Hardware
+##### Hardware
 
 ![hardware](./images/HardwareSemaforoBarrera.png)
 
 1. Queremos añadir un botón para decidir cuando cambia. Basta con activar el cambio cuando se activa el pulsador
 
-
-
 1. Ahora vamos a añadir un sensor de paso que lanzará una alarma cuando se active. Vemos que la espera nos complica todo...
   * Debemos de romper la espera larga en esperas más pequeñas
   * Usaremos un bucle de repetición determinista: for
 
-TODO: Maqueta (¿modelo 3D?)
 
-# Seguidor solar
+### Seguidor solar
 
 1. ¿qué es un Seguidor Solar?
 
@@ -162,9 +162,8 @@ TODO: Maqueta (¿modelo 3D?)
     * Offset
     * Velocidad de muestreo
 
-TODO: Maqueta (¿modelo 3D?)
 
-# Gaita electrónica
+### Gaita electrónica
 
 Se trata de usar dos sensores analógicos para controlar la frecuencia y la duración de la nota que reproducirá el zumbador
 
@@ -175,7 +174,7 @@ Se trata de usar dos sensores analógicos para controlar la frecuencia y la dura
 
 Propuesta: usar sensores digitales (sensores infrarrojos) para construir un instrumento afinado
 
-# Sensor de aparcamiento
+### Sensor de aparcamiento
 
 Vamos a utilizar el Sensor de ultrasonidos para medir la distancia hasta un obstáculo.
 
@@ -194,7 +193,7 @@ En función de la distancia al obstáculo haremos:
 
 [vídeo](https://www.youtube.com/watch?v=7hgUJK6-60k&feature=youtu.be)
 
-# Robot siguelíneas
+### Robot siguelíneas
 
 Se trata de un robot sencillo que usa 2 servos para moverse y que sigue una línea negra sobre fondo blanco.
 

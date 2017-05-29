@@ -33,7 +33,7 @@
 
 ## [Blocky](https://developers.google.com/blockly/)
 
-![blocky](https://developers.google.com/blockly/images/BlocklyDemoImage.png)
+![blocky](./images/BlocklyDemoImage.png)
 
 ## [Scratch](./Scratch.md)
 

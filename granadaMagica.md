@@ -6,20 +6,23 @@
 
 ![CCbySA](./images/CCbySQ_88x31.png)
 
-##  Trabajando todos
+# Ejemplo: Granada Mágica
+
+###  Trabajando todos
+
+Todos los alumnos han participado en el proyecto como se puede ver en las imágenes
 
 [fotos](https://www.flickr.com/photos/fantasticoguevejar/sets/72157650743695171/)
 
 [blog](http://unblogfantasticoenguevejar.blogspot.com.es/)
 
-## Todos haciendo algo distinto
+### Cada uno  haciendo algo distinto
 
-* * *
 
-¿Enseñamos impresión 3D? ¿Enseñamos arduino?
-# ¡No!
+¿Enseñamos impresión 3D? ¿Enseñamos Arduino?
+¡No!
 
-## Aprendemos ...
+### Aprendemos ...
 * a hacer,
 * a escribir,
 * a redactar,
@@ -27,7 +30,7 @@
 * a organizar,  
 * a calcular
 
-## Hacemos ...
+### Hacemos ...
 * plástica,
 * matemáticas,
 * historia,
@@ -37,6 +40,4 @@
 
 * * *
 
-# ¿Motivados?
-
-# ¡¡¡Enganchados!!!
+### ¿Motivados? más bien ¡¡¡Enganchados!!!

@@ -13,9 +13,9 @@
 
 ![robot](https://upload.wikimedia.org/wikipedia/commons/1/19/Repro_Smoking_Spaceman_Robot_%E2%80%93_Ha_Ha_Toy_%E2%80%93_Silver_-_Front.jpg)
 
-### "Máquina automática programable capaz de realizar determinadas operaciones de manera autónoma y sustituir a los seres humanos en algunas tareas, en especial las pesadas, repetitivas o peligrosas; puede estar dotada de sensores, que le permiten adaptarse a nuevas situaciones”
+"Máquina automática programable capaz de realizar determinadas operaciones de manera autónoma y sustituir a los seres humanos en algunas tareas, en especial las pesadas, repetitivas o peligrosas; puede estar dotada de sensores, que le permiten adaptarse a nuevas situaciones”
 
-# ¿Qué hay dentro de Zowi?
+### ¿Qué hay dentro de Zowi?
 
 ![dentroZowi](./images/imagen_3_mont_esquema.PNG)
 
@@ -35,23 +35,21 @@
 
 ![Instrucciones](./images/imagen_3_mont_conex.PNG)
 
-# [Zowi es open-source](https://github.com/bqlabs/zowi)
+## Zowi ...
+* Es open-source](https://github.com/bqlabs/zowi)
+* Se puede [reprogramar](http://bitbloq.bq.com)
+* Puedes cambiar su aspecto y Diseñar complementos
+  ![MrPotato](http://thingiverse-production-new.s3.amazonaws.com/renders/97/8b/5b/8f/99/20e72d0c132f72a648ea3e8b07444ed8_preview_featured.jpg)
 
-## Lo puedes [reprogramar](http://bitbloq.bq.com)
-
-## Puedes cambiar su aspecto y Diseñar complementos
-
-![MrPotato](http://thingiverse-production-new.s3.amazonaws.com/renders/97/8b/5b/8f/99/20e72d0c132f72a648ea3e8b07444ed8_preview_featured.jpg)
-
-## Añadirle nuevos movimientos
+* Añadirle nuevos movimientos
 
 [vídeo](https://twitter.com/BQAcademyES/status/695296147464806400)
 
-## Algunos [ejemplos](https://github.com/bqlabs/zowi/tree/master/mods)
+* Algunos [ejemplos](https://github.com/bqlabs/zowi/tree/master/mods) de cambios
 
-![ZowiMod](https://github.com/bqlabs/zowi/raw/master/mods/Forge/images/forge.jpg)
+  ![ZowiMod](https://github.com/bqlabs/zowi/raw/master/mods/Forge/images/forge.jpg)
 
-## Robot sencillos
+## Otros Robot sencillos
 * Para infantil: [Bichobot](./bichobot.md)
 * Para primaria: [Escornabot](./escornabot.md)
 
@@ -65,7 +63,7 @@ Son 4 las fases para construir un Robot
   * ¡¡ Improvisación !!
   * Materiales
   * Reciclado
-2. Eléctrica: motores, alimentacion,...
+2. Eléctrica: motores, alimentación,...
   * Pilas, baterías
   * Motores
 3. Electrónica: necesitamos un control fino de los elementos

@@ -3,7 +3,7 @@
 TEMP_DIR="ebook-temp"
 TEMP_file=$TEMP_DIR"/ebook.md"
 
-EBOOK_NAME=$TEMP_DIR"/Raspberry"
+EBOOK_NAME=$TEMP_DIR"/Programacion_robotica"
 
 rm -rf $TEMP_DIR
 mkdir $TEMP_DIR

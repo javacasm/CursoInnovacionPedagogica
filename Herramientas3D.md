@@ -9,6 +9,8 @@
 
 # Herramientas 3D
 
+Veamos algunos de los programas más sencillo para diseño 3D
+
 ### Diseño 3D
 
 [BlockScad](https://www.blockscad3d.com/)

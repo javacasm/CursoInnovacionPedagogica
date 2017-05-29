@@ -10,46 +10,38 @@
 
 ## ¿Por qué "hacer" cosas en el aula?
 
-### Recordamos
+### Recordamos ...
 * el 10% de lo que leemos,
 * el 20% de lo que oímos
 * y el 90% de lo que construímos
 
-## Hacer genera un tipo de **satisfacción muy particular**:
+Hacer genera un tipo de **satisfacción muy particular**:
 
-### __"la sensación de estar teniendo un impacto directo sobre el mundo."__
+__"la sensación de estar teniendo un impacto directo sobre el mundo."__
 
-## La cultura del hacer les da la certeza de que se puede cambiar el mundo y las herramientas están ahí.
+ La cultura del hacer les da la certeza de que se puede cambiar el mundo y las herramientas están ahí.
 
+Ellos viven en un mundo lleno de tecnología,  hagamos que aprendan a utilizarla
 
+Enseñamos que pueden hacer que las cosas funcionen de acuerdo a como nosotros nos lo proponemos
 
-## Ellos viven en un mundo lleno de tecnología,  hagamos que aprendan a utilizarla
+De esta manera **educamos para controlar la tecnología, no para consumirla**
 
-## Enseñamos que pueden hacer que las cosas funcionen de acuerdo a como nosotros nos lo proponemos
+Su mundo está lleno de tecnología, de redes sociales, hagamos que aprendan a utilizarlas
 
-## De esta manera educamos para controlar la tecnología, no para consumirla
+Por eso debemos compartir y liberar sus/nuestros logros, permitiendo que otros basándose en ellos lleguen aún más alto
 
+No nos debe dar miedo que otros vean lo que hacemos si nos hemos esforzado en hacerle lo mejor que podemos.
 
+No se trata aprender a usar una impresora 3D o aprender hacer un programa
 
-## Ellos viven en un mundo lleno de tecnología, de redes sociales, hagamos que aprendan a utilizarlas
+Se trata de aprender Matemáticas, Lengua, Inglés, Física, Informática, ingeniería, mecánica, química,....  pero utilizando las herramientas actuales.
 
-## Aprende de otros, viendo sus "tutoriales"
+Por eso decimos que los tres pilares serían el diseño 3D, la programación y la electrónica
 
-## Por eso debemos compartir y liberar sus/nuestros logros, permitiendo que otros basándose en ellos lleguen aún más alto
+## Experiencias
 
-## No nos debe dar miedo que otros vean lo que hacemos si nos hemos esforzado en hacerle lo mejor que podemos.
-
-
-
-## No se trata aprender a usar una impresora 3D o aprender hacer un programa
-
-## Se trata de aprender Matemáticas, Lengua, Inglés, Física, Informática, ingeniería, mecánica, química,....  pero utilizando las herramientas actuales.
-
-## Por eso decimos que los tres pilares serían el diseño 3D, la programación y la electrónica
-
-
-
-## Podemos citar muchas experiencias interesantes de uso de la tecnología en el aula como las de [Diego García](https://unblogfantasticoenguevejar.blogspot.com.es/) y [Eusebio Córdoba](http://tercero.ceipsansebastian.net/)
+Podemos citar muchas experiencias interesantes de uso de la tecnología en el aula como las de [Diego García](https://unblogfantasticoenguevejar.blogspot.com.es/) y [Eusebio Córdoba](http://tercero.ceipsansebastian.net/)
 
 [Fco. G. Lorca de Güevejar](https://twitter.com/FGuevejar/status/844894944879935488)
 
@@ -126,14 +118,12 @@ Ejemplo para primaria [escornabot](./escornabot.md)
 ![pipeta](https://thingiverse-production-new.s3.amazonaws.com/renders/d5/d1/47/5a/44/c087340014c3f3ad74d61a1006712669_preview_featured.JPG)
 
 
+[16 proyectos](http://www.gettingsmart.com/2015/06/your-students-can-be-makers-16-projects-invented-by-teachers/?utm_content=buffer5f7a9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
-# “Lo que oigo, lo olvido; lo que veo, lo recuerdo; lo que hago, lo aprendo”
+
+## “Lo que oigo, lo olvido; lo que veo, lo recuerdo; lo que hago, lo aprendo”
+
 
 ## Debate: Las chicas a partir de los 12 años abandonan las enseñanzas STEM
 * Las chicas y las STEM
 * ¿Fomentamos las materias STEM?
-
-
-## Ejemplos
-
-[16 proyectos](http://www.gettingsmart.com/2015/06/your-students-can-be-makers-16-projects-invented-by-teachers/?utm_content=buffer5f7a9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)

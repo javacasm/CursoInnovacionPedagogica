@@ -31,12 +31,14 @@ Comprar.md )
 
 for i in "${files[@]}"
 do :
-   grep -v  -E '@javacasm|CCby|Módulo de Programación|Curso Superior de Innovación|<!--' $i >>$TEMP_file
+   grep -v  -E '@javacasm|CCby|Módulo de Programación|Curso Superior de Innovación' $i >$TEMP_DIR"/"$i
 done
+cp -r images $TEMP_DIR
+cp Cabecera.md LaTeX_ES.latex Makefile $TEMP_DIR
+
+cd $TEMP_DIR
+make 1
+mv $TEMP_DIR/*.pdf .
 
 
-pandoc --verbose -o $EBOOK_NAME".pdf" $TEMP_file
-mv $EBOOK_NAME* .
-
-
-# rm -rf $TEMP_DIR # comentado para comprobar
+  rm -rf $TEMP_DIR # comentado para comprobar

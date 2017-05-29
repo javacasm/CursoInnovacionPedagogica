@@ -61,7 +61,7 @@ Origen: el CNC
 
 * ultimaker
 
-![ultimaker](https://i.ytimg.com/vi/Sz77Tq9xzpM/maxresdefault.jpg)
+![ultimaker](./images/maxresdefault.jpg)
 
 * bq: witbox
 ![witbox](http://www.imprimalia3d.com/sites/default/files/Witbox_3D-printer-yellow-iGo3D.jpg)
@@ -82,9 +82,11 @@ Origen: el CNC
 Composites:
 
 * Madera
-![madera](http://rascomras.com/store/104-thickbox_leometr/laywoo-d3-madera-filamento-3mm-250gr.jpg)
+![madera](./images/filamento-de-madera-2.png
+
 * Bronce
 ![bronce](http://www.3ders.org/images2014/copperFill_3d-printing-filament-1.jpg)
+
 * ...
 
 #### Resoluciones, tamaños
@@ -98,7 +100,7 @@ Composites:
 
 [Cyclone](https://github.com/bq/Cyclone-PCB-Factory)
 
-![cyclone](https://i.ytimg.com/vi/jWKOkb-tut8/maxresdefault.jpg)
+![cyclone](./images/maxresdefault_cyclone.jpg)
 
 #### Imprimiendo
 
@@ -121,7 +123,6 @@ Composites:
 
 #### Herramientas de diseño en 3D
 
-![cad](http://www.deelip.com/images/2010-08-11-001.gif)
 
 * [FreeCad](http://www.freecadweb.org/)
 ![freecad](http://jeromeabel.net/files/ressources/democratie-industrielle/bonus-images/fab/FreeCAD_aeroponic_system.jpg) [Tutorial rápido](http://spainlabs.com/wiki/index.php?title=Tutorial_r%C3%A1pido_de_FreeCad) [videotutoriales](http://www.iearobotics.com/wiki/index.php?title=Dise%C3%B1o_de_piezas_con_Freecad)

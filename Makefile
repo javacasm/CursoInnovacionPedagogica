@@ -1,7 +1,7 @@
 F1="Curso de Innovación Pedagógica. Programación y Robótica.pdf"
 
 1:
-	pandoc --latex-engine=xelatex   \
+	pandoc  --verbose --latex-engine=xelatex   \
 					-V papersize:a4paper    \
 					--template=./LaTeX_ES.latex    \
 					-o  $(F1)  \

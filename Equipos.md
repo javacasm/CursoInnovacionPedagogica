@@ -69,9 +69,9 @@ Programable con bloques
 ![Raspberry Pi versión 3](https://www.raspberrypi.org/app/uploads/2016/02/Raspberry-Pi-3-top-down-web.jpg)
 
 
-# Problemas y sus soluciones
+## Problemas y sus soluciones
 
-## El coste
+### El coste
 
 Uno de los problemas que se plantea cuando se quiere hacer robótica en el aula es que tiene el coste y que normalmente los centros no disponen de presupuesto para ello.
 En ese punto siempre aparece la disyuntiva de si usar un kit o los componentes

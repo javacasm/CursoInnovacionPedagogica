@@ -53,7 +53,7 @@
 
 [Fco. G. Lorca de Güevejar](https://twitter.com/FGuevejar/status/844894944879935488)
 
-![silla](https://2.bp.blogspot.com/-jEDmHHTCny4/WLoGeFYyVxI/AAAAAAAABfQ/KXMtnDGJflYOGpoTP78cHX9SOTau1OcQgCLcB/s400/FullSizeRender.jpg)
+![silla](./images/FullSizeRender.jpg)
 
 
 [CEIP S. Sebastián](https://twitter.com/ceipsnsebastian/status/845212030013493248)

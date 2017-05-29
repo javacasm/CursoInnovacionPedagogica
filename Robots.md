@@ -53,7 +53,7 @@
 * Para infantil: [Bichobot](./bichobot.md)
 * Para primaria: [Escornabot](./escornabot.md)
 
-# Fases para construir  un robot
+### Fases para construir  un robot
 
 Son 4 las fases para construir un Robot
 

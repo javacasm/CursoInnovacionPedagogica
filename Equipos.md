@@ -32,7 +32,7 @@ Alternativa open: [Escornabot](./escornabot.md)
 
 ## Lego
 Lego NXT
-![nxt](https://images-na.ssl-images-amazon.com/images/I/41wQw7YDvOL._SY450_.jpg)
+![nxt](./images/41wQw7YDvOL._SY450_.jpg)
 
 [Lego EV3](https://www.amazon.es/LEGO-Mindstorms-juguete-electr%C3%B3nico-31313/dp/B00BMKLVJ6/ref=sr_1_1?ie=UTF8&qid=1495724987&sr=8-1&keywords=lego+ev3) (320€)
 

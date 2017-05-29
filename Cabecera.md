@@ -17,12 +17,13 @@ documentclass:
 
  José Antonio Vacas Martínez
 
+\includegraphics{CCbySQ_88x31}
 
 \today
 
 \end{center}
 
-\includegraphics{Licencia_CC}
+
 \vspace*{\fill}
 
 \frontmatter

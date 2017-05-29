@@ -29,14 +29,3 @@ Podemos programar usando herramientas muy sencillas:
 [Ardublock](http://blog.ardublock.com)
 
 ![Ardublock](http://blog.ardublock.com/wp-content/uploads/2014/07/untitled6.jpg)
-
-
-## Impresión 3D
-
-## [Proyectos](https://github.com/javacasm/ProgramarParaEducar/blob/master/Proyectos.md)
-
-# Actividades Extraescolares y En las aulas
-
-* Antes 100% Lego: una herramienta fantástia pero cara y cerrado
-  * Escornabot
-  * SkyBot
